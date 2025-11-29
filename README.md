@@ -118,8 +118,7 @@ complex scroll-based animations
 - Implemented self–populating MySQL database for storing and retrieving user bets with high reliability
 - Configured Docker Compose to run frontend, backend, MySQL, and phpMyAdmin containers seamlessly
 
-### 🎮 [Reinforcement Learning Agent](https://github.com/glitch418)
-**Python • Gymnasium • NumPy**
+### [Reinforcement Learning Agent] | Python, Gymnasium, NumPy
 
 Q-Learning and SARSA agents for CliffWalking environment
 - Optimized navigation reward algorithms
